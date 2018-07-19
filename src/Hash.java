@@ -18,7 +18,6 @@ public class Hash {
 			System.out.println(entry.getKey() + " " + entry.getValue());
 		}
 		// Manter a ordem de inserção
-		// Testando gitkraken
 		Map<String, String> record = new LinkedHashMap<>();
 		record.put("Elado", "Errado");
 		record.put("Alombada", "Arrombada");
